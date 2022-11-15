@@ -37,11 +37,11 @@ img{border:0px;}
 .timetop{height:5rem;}
 .textleft{text-align:right;font-family:myThirdFont;line-height:3rem;font-size:1.5rem;height:10rem;}
 .textright{text-align:left;font-family:myThirdFont;line-height:3rem;font-size:1.5rem;height:10rem;}
-.boypicture_01{position:absolute;width:13%;right:30rem;top:0rem;}
+.boypicture_01{position:absolute;width:13%;right:20rem;top:0rem;}
 .maincon05{width:100%;height:45rem;text-align:center;}
 .maincon05 img{width:60%;}
 .maincon06{width:100%;height: 100rem; background:url("../images/main_bg_05.jpg") no-repeat; overflow:hidden;}
-.secondh202{text-align: center;font-family:myScendFont; font-size:4rem;margin-top:25rem;}
+.secondh202{text-align: center;font-family:myScendFont; font-size:4rem;margin-top:30rem;}
 .maincon06 p{font-family: myfourthFont; font-size:2rem; line-height: 3rem;margin:3rem auto;text-align: center;}
 .buttonsmall01{width:13rem;color:#fff; margin:0px auto; height:5rem; text-align: center; line-height: 5rem;border-radius:3rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);font-family:myScendFont; font-size: 2rem;margin-bottom: 0rem;}
 .secondh201{text-align: center;font-family:myScendFont; font-size:4rem;margin-top:5rem ;}
