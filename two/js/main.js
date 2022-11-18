@@ -11,7 +11,8 @@ function getTop(e) {
 }
 
 function lazyLoad(imgs) {
-    let H = document.documentElement.clientHeight;   // 获取可视区域高度
+    // 获取可视区域高度,乘1.3表示加载屏幕长度1.3倍范围内的图
+    let H = document.documentElement.clientHeight * 1.3;
     let S = document.documentElement.scrollTop || document.body.scrollTop;
     for (let i = 0; i < imgs.length; i++) {
         if (H + S > getTop(imgs[i])) {
