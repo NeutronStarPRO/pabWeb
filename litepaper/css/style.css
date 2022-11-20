@@ -1,66 +1,80 @@
 @charset "utf-8";
 *{margin:0px; padding:0px;}
 a{text-decoration:none;}
-header{width:100%; height: 4rem; background:#e8e8e8; font-family: myFirstFont; color:#000; overflow: hidden;font-size: 1.5rem;}
+header{width:100%; height: 4rem; background:#e8e8e8;color:#000; overflow: hidden;font-size: 1.5rem;}
 .logo{width:20rem; height: 4rem; float: left; margin-top:0.5rem; margin-left:0.5rem;}
 h1{font-weight:normal; margin:0px; padding:0px;font-size: 1.5rem;}
 a{color:#000000;}
 .logo img{float:left;}
 .logo span{display:block; width:15rem; height: 3rem; line-height: 3rem; float: left;padding-left:0.5rem;}
-.con01{width:100%; height:43rem; background:url("../images/banner_01_pc.jpg") no-repeat; background-position: center;font-family:myScendFont;text-align: center; line-height:50rem;font-size:6.5rem; background-size: 100% 100%;}
-.con02{width:80rem; height: 45rem; margin:0px auto;}
-.con02left{width:45%; height: 40rem; float:left;padding-top:5rem;}
-.con02left h2{font-size:2.5rem;padding-bottom: 2rem;font-family:myThirdFont;}
-.con02left p{font-size:1.3rem;padding-bottom: 2rem; width:95%;line-height: 3rem;font-family:myFirstFont;}
-.con02right{width:55%; height: 40rem; float:left; text-align: center;padding-top:5rem;}
-.con03{width:100%; height: 85rem; background: url("../images/girl_01_pc.jpg") no-repeat; overflow: hidden;}
-.con03con{width:80rem; height: 45rem;margin:0px auto; margin-top:32rem;}
+.con01{width:100%; height:40rem; background:url("../images/banner_01_pc.jpg") no-repeat;
+    text-align: center;line-height:50rem;font-size:6.5rem;background-size: 100% auto;}
+.con02{width:80rem; height: 38rem; margin:0px auto;}
+.con02left{width:45%; height: 35rem; float:left;padding-top:5rem;}
+.con02left h2{font-size:2rem;padding-bottom: 2rem;}
+.con02left p{font-size:1.2rem;padding-bottom: 1.5rem; width:95%;line-height: 2.3rem;}
+.con02right{width:55%; height: 35rem; float:left; text-align: center;padding-top:2rem;}
+.con02right img{width: 70%;}
+.con03{width:100%; height: 67rem; background: url("../images/girl_01_pc.jpg") no-repeat;background-size: 100% auto;overflow: hidden;}
+.con03con{width:70rem; height: 37rem;margin:0px auto; margin-top:27rem;}
 .con03con h2{width:50rem; margin-bottom: 1.5rem;}
-.con03con p{width:50rem;margin-bottom: 1.5rem; font-size:1.4rem;line-height: 3rem;}
-.con04{width:80rem; height:43rem; margin:0px auto;overflow: hidden;}
-.con04con01{width:31%; height: 28rem;float:left; background:#edefef;box-shadow: 10px 10px 5px #e1e2e2;margin-right:1.3rem;margin-top:6rem;padding-top:4rem;}
-.con04con01 h3{font-size:1.5rem;padding-bottom: 2rem;font-family:myThirdFont;width:90%; text-align: center;margin:0px auto;}
-.con04con01 p{width:85%; margin:0px auto; font-size: 1rem; line-height: 2.5rem; }
-.con05{width:100%; height: 105rem; background:#ccc;background:url("../images/xinxingbg_01_pc.jpg") no-repeat;position: relative;}
+.con03con p{width:50rem;margin-bottom: 1.2rem; font-size:1.2rem;line-height: 2rem;}
+.con04{width:80rem; height:40rem; margin:0px auto;overflow: hidden;}
+.con04con01{width:31%; height: 27rem;float:left; background:#edefef;transition: 0.7s ease;
+    margin-right:1.3rem;margin-top:6rem;padding-top:4rem;}
+.con04con01:hover{box-shadow: 10px 10px 5px #e1e2e2;}
+.con04con01 h3{font-size:1.5rem;padding-bottom: 2rem;width:90%; text-align: center;margin:0px auto;}
+.con04con01 p{width:85%; margin:0px auto; font-size: 1.1rem; line-height: 2.5rem;}
+.con05{width:100%; height: 105rem; background:#ccc;background-size: 100% auto;background:url("../images/xinxingbg_01_pc.jpg") no-repeat;position: relative;}
 .con0501{width:80rem; height: 50rem; margin:0px auto; overflow: hidden;}
-.con0501 h2{width:100%; height:5rem; margin-top:5rem;font-family:myScendFont; font-size:3rem;margin-bottom: 4rem;}
+.con0501 h2 {
+    width: 100%;
+    height: 3rem;
+    margin-top: 5rem;
+    font-size: 2.7rem;
+    margin-bottom: 3rem;
+}
+.con0501 img{width: 77%;}
 .con0502{width:80rem; height: 55rem; margin:0px auto;position: relative;}
-.con0502 h2{width:100%; height:5rem;font-family:myScendFont; font-size:3rem;margin-bottom: 4rem;}
+.con0502 h2{width:100%; height:5rem;font-size:2.7rem;margin-bottom: 2rem;}
 .con0502 h3{width:100%; height:5rem;background:#edefef;text-align: center;line-height: 5rem;font-size:2rem;margin-bottom: 1.5rem;}
 .con0502 p{width:100%; height:auto;background:#f4f5f5;text-align: center;line-height: 1.5rem;margin-bottom: 2.5rem;padding:2rem 0rem;}
 .person{position: absolute;width:420px; height: 522px; right:2rem; bottom:2rem;}
-.con06{width:80rem;height: 70rem; margin:0px auto;}
-.con06 h2{width:100%; height:5rem;font-family:myScendFont; font-size:3rem;margin-bottom: 4rem;}
-.con07{width:100%; height: 100rem;background:url("../images/xinxingbg_02_pc.jpg") no-repeat;}
-.con07 h2{width:100%; height:5rem;font-family:myScendFont; font-size:3rem;margin-bottom: 4rem;}
+.con06{width:80rem;height: 53rem; margin:0px auto;}
+.con06 img{width: 67%;}
+.con06 h2{width:100%; height:5rem;font-size:2.7rem;margin-bottom: 0rem;}
+.con07{width:100%; height: 85rem;background:url("../images/xinxingbg_02_pc.jpg") no-repeat;background-size: 100% auto;}
+.con07 h2{width:100%; height:5rem;font-size:2.7rem;margin-bottom: 3rem;}
 .con07con{width:80rem; height:0rem; margin:0px auto;}
 .lin01{width:100%; height: 1px; background:#222222;}
+.con08 img{width: 47%;}
 .con07tip01{width:100%; height: 8rem;position: relative;}
 .con07tip01left{width:30%;height: 8rem;float: left; line-height: 8rem;position: relative;padding-left:2rem;}
 .con07tip01left img{margin-left:1.5rem; width:6rem; margin-top:1rem;}
-.con07tip01right{width:60%;height: 8rem;float: left;text-align: left; line-height: 8rem;font-family: myFirstFont;font-size:1.4rem;}
-.con08{width:80rem;height: 100rem; margin:0px auto;text-align: center;overflow: hidden;}
-.con08 h2{width:100%; height:5rem;font-family:myScendFont; font-size:3rem;margin-bottom: 4rem; text-align: left;}
+.con07tip01right{width:60%;height: 8rem;float: left;text-align: left; line-height: 8rem;font-size:1.4rem;}
+.con08{width:80rem;height: 60rem; margin:0px auto;text-align: center;overflow: hidden;}
+.con08 h2{width:100%; height:5rem;font-size:3rem;margin-bottom: -1rem; text-align: left;}
 .bottombox{width:65rem; height: 15rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);border-radius: 40px; margin:0px auto;margin-top:5rem;position: relative;}
-.bottombox01{font-family: myfourthFont; padding: 0.5rem; color:#fff; float: left;border:2px solid #fff;border-radius: 30px;font-size: 1.2rem;margin-top:3rem; margin-left:3rem;}
-.bottombox02{font-family: myfourthFont; padding: 0.5rem; color:#fff; float: right;border:2px solid #fff;border-radius: 30px;font-size: 1.2rem;margin-top:3rem; margin-right:3rem;}
-.con09{width:100%; height: 110rem; margin:0px auto;text-align: center;margin-top:5rem;background:url("../images/xinxingbg_03_pc.jpg") no-repeat; overflow: hidden;}
-.con09 h2{font-family: myFirstFont;font-size: 4rem;}
+.bottombox01{padding: 0.5rem; color:#fff; float: left;border:2px solid #fff;border-radius: 30px;font-size: 1.2rem;margin-top:3rem; margin-left:3rem;}
+.bottombox02{padding: 0.5rem; color:#fff; float: right;border:2px solid #fff;border-radius: 30px;font-size: 1.2rem;margin-top:3rem; margin-right:3rem;}
+.con09{width:100%; height: 97rem; margin:0px auto;text-align: center;margin-top:5rem;background-size: 100% auto;background:url("../images/xinxingbg_03_pc.jpg") no-repeat; overflow: hidden;}
+.con09 h2{font-size: 4rem;}
 .timeline001{width:60rem; margin: 0px auto; border:0px solid #ccc; height: 80rem; margin-top:5rem;}
-.timelinecenter{background:url("../images/line_01.jpg") no-repeat; background-position:center;}
+.timelinecenter{background:url("../images/line_01.jpg") no-repeat;background-position:center;}
 .timelinecenter img{width:2rem;}
 .timetop{height:5rem;}
-.textleft{text-align:right; font-family:myThirdFont;line-height: 3rem; font-size:1.5rem;height: 10rem;}
-.textright{text-align:left; font-family:myThirdFont;line-height: 3rem; font-size:1.5rem;height: 10rem;}
-.con10{width:100%; height: 35rem; margin:0px auto;text-align: center;margin-top:5rem;}
-.con10 h2{font-family: myFirstFont;font-size: 4rem;margin-bottom:10rem;}
-.contact001{width:70rem; height: 29rem; margin:0px auto; text-align: center;}
+.textleft{text-align:right;line-height: 3rem; font-size:1.5rem;height: 10rem;}
+.textright{text-align:left;line-height: 3rem; font-size:1.5rem;height: 10rem;}
+.con10{width:100%; height: 20rem; margin:0px auto;text-align: center;margin-top:5rem;}
+.con10 h2{font-size: 3rem;margin-bottom:5rem;}
+.contact001{width:70rem; height: 20rem; margin:0px auto; text-align: center;}
 .contact001 a{display: block; width:50%;float:left;}
-.contact001 a img{width:100%;}
+.contact001 a img{width:60%;}
 .con11{width:100%; height: 10rem; background:#000;text-align: center; line-height: 10rem;overflow: hidden;}
 .contact002{width:20rem; height: 30rem; margin:0px auto; text-align: center; margin-top:2rem;}
 .contact002 a{display: block; width:50%;float:left;}
-.contact002 a img{width:6rem;}
+.contact002 a img{width:3rem;}
+
 
 @media screen and (max-width: 1200px) and (min-width: 800px){
 header{width:100%; height: 3rem;font-size: 1rem; }
