@@ -285,7 +285,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:15%;right:10rem; top:0rem;}
 .maincon05{width:100%; height:17rem;}
 .maincon05 img{width:50%;}
-.maincon06{width:100%;height:50rem;}
+.maincon06{width:100%;height:54rem;}
 .secondh202{font-size:2rem;margin-top:9rem;}
 .maincon06 p{font-size:1.3rem; line-height:2.3rem;margin:3rem auto;}
 .buttonsmall01{width:12rem;color:#fff; margin:0px auto; height:4rem;line-height:4rem;
@@ -392,7 +392,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:15%;right:10rem;top:0rem;}
 .maincon05{width:100%; height: 23rem;}
 .maincon05 img{width:60%;}
-.maincon06{width:100%;height:47rem;}
+.maincon06{width:100%;height:50rem;}
 .secondh202{font-size:2rem;margin-top:8rem;}
 .maincon06 p{font-size:1.3rem; line-height:2rem;margin:3rem auto;}
 .buttonsmall01{width:10rem;margin:0px auto; height:3.5rem;
@@ -562,7 +562,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:15%;right:8rem; top:0rem;}
 .maincon05{width:100%; height: 23rem; text-align: center;}
 .maincon05 img{width:70%;}
-.maincon06{width:100%;height: 80rem;}
+.maincon06{width:100%;height: 85rem;}
 .secondh202{text-align: center;  font-size:2rem;margin-top:25rem;}
 .maincon06 p{  font-size:1.5rem; line-height: 3rem;margin:3rem auto;text-align: center;width:80%;}
 .buttonsmall01{width:13rem;color:#fff; margin:0px auto; height:5rem; text-align: center; line-height: 5rem;border-radius:3rem;
@@ -687,7 +687,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:20%;right:5rem; top:0rem;}
 .maincon05{width:100%; height: 18rem;}
 .maincon05 img{width:80%;}
-.maincon06{width:100%;height: 55rem;}
+.maincon06{width:100%;height: 62rem;}
 .secondh202{text-align: center;font-size:2rem;margin-top:5rem;}
 .maincon06 p{  font-size:1.2rem; line-height: 3rem;margin:3rem auto;width:80%;}
 .buttonsmall01{width:13rem;color:#fff; margin:0px auto; height:5rem;line-height: 5rem;font-size: 2rem;margin-bottom: 0rem;}
@@ -782,7 +782,7 @@ img{border:0px;width: 43%;}
 .maintoponeleft{width:20%; height: 100%; float: left;overflow: hidden;}
 .maintoponeleft img{width:60%; margin-top:0.3rem; margin-left:1rem;}
 .maintoponeright{width:80%; height: 100%; float: left;overflow: hidden;position: relative;}
-.nav{width:100%; height:4.3rem; position: absolute; bottom:0px;}
+.nav{padding-left: 0rem;width:100%; height:4.3rem; position: absolute; bottom:0px;}
 .nav li{padding:0.2rem 0.8rem; float: left;font-size:1rem;}
 .nav li a{color:#000;}
 .firstli01{margin-left:1rem;}
@@ -811,7 +811,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:20%;right:5rem; top:0rem;}
 .maincon05{width:100%; height: 10rem;margin-top:2rem;}
 .maincon05 img{width:60%;}
-.maincon06{width:100%;height:43rem; }
+.maincon06{width:100%;height:50rem; }
 .secondh202{text-align: center;font-size:1.5rem;margin-top:5rem;}
 .maincon06 p{font-size:1.1rem; line-height: 2.5rem;margin:1rem auto;width:80%;}
 .buttonsmall01{width:10rem;margin:0px auto;height:3rem;line-height:3rem;font-size:1.3rem;margin-bottom: 0rem;}
@@ -873,9 +873,9 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:20%;right:2rem; top:0rem;}
 .maincon05{width:100%; height: 13rem;}
 .maincon05 img{width:80%;}
-.maincon06{width:100%;height: 47rem;}
+.maincon06{width:100%;height: 55rem;}
 .secondh202{font-size:1.3rem;margin-top:12rem;}
-.maincon06 p{font-size:1.2rem; line-height: 2.5rem;margin:1rem auto;text-align: center;width:80%;}
+.maincon06 p{font-size:1.1rem; line-height: 2rem;margin:1rem auto;text-align: center;width:80%;}
 .buttonsmall01{width:12rem;margin:0px auto; height:4rem;line-height: 4rem;border-radius:3rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);  font-size: 1.5rem;margin-bottom: 0rem;}
 .secondh201{font-size:1.3rem;margin-top:3rem ;}
 .con10{width:100%; height: 15rem; margin:0px auto;margin-top:5rem; overflow: hidden;}
@@ -906,7 +906,7 @@ img{border:0px;width: 43%;}
 .maintoponeleft{width:20%; height: 100%; float: left;overflow: hidden;}
 .maintoponeleft img{width:60%; margin-top:1rem; margin-left:0rem;}
 .maintoponeright{width:80%; height: 100%; float: left;overflow: hidden;position: relative;}
-.nav{width:100%; height:5rem; position: absolute; bottom:0px;}
+.nav{padding-left: 0rem;width:100%; height:5rem; position: absolute; bottom:0px;}
 .nav li{padding:0.2rem 1rem; float: left;   font-size:0.7rem;}
 .nav li a{color:#000;}
 .firstli01{margin-left:1rem;}
@@ -935,13 +935,13 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:20%;right:2rem; top:0rem;}
 .maincon05{width:100%; height: 12rem;}
 .maincon05 img{width:80%;}
-.maincon06{width:100%;height: 45rem;}
+.maincon06{width:100%;height: 54rem;}
 .secondh202{font-size:1.3rem;margin-top:11rem;}
-.maincon06 p{font-size:1.2rem; line-height: 2.5rem;margin:1rem auto;width:80%;}
+.maincon06 p{font-size:1rem; line-height: 2rem;margin:1rem auto;width:80%;}
 .buttonsmall01{width:11rem;margin:0px auto;height:4rem;line-height: 4rem;border-radius:3rem;
 	font-size: 1.3rem;margin-bottom: 0rem;}
 .secondh201{font-size:1.3rem;margin-top:3rem ;}
-.con10{width:100%; height: 17rem; margin:0px auto;margin-top:5rem;}
+.con10{width:100%; height: 15rem; margin:0px auto;margin-top:5rem;}
 .con10 h2{font-family: myFirstFont;font-size: 2rem;margin-bottom:5rem;}
 .contact001{width:100%; height: 17rem; margin:0px auto;}
 .contact001 a{display: block; width:50%;float:left;}
@@ -998,7 +998,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:20%;right:2rem; top:0rem;}
 .maincon05{width:100%; height: 10rem; text-align: center; margin-top:5rem;}
 .maincon05 img{width:80%;}
-.maincon06{width:100%;height: 55rem;}
+.maincon06{width:100%;height: 66rem;}
 .secondh202{text-align: center;  font-size:1.5rem;margin-top:5rem;}
 .maincon06 p{  font-size:1.2rem; line-height: 2.5rem;margin:3rem auto;text-align: center;width:80%;}
 .buttonsmall01{width:12rem;color:#fff; margin:0px auto; height:4rem; text-align: center; line-height: 4rem;border-radius:3rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);  font-size: 1.5rem;margin-bottom: 0rem;}
