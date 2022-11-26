@@ -91,10 +91,10 @@ img{border:0px;width: 43%;}
 .contact001 a:last-child img{width:50%;float: left;}
 .con11{width:100%; height:8rem;background:#000;text-align: center; line-height: 5rem;
 	overflow: hidden;}
-.contact002{width:20rem;margin:0px auto;text-align:center;margin-top:1rem;
+.contact002{width:27rem;margin:0px auto;text-align:center;margin-top:1rem;
 	display: inline-block;
 	transform-origin: center center;}
-.contact002 a img{width:5rem;}
+.contact002 a img{width:5rem;padding: 0 1rem;}
 .contact002 a img:hover{
 	animation-name: shake-it;
 	animation-duration: 5s;
@@ -153,7 +153,7 @@ img{border:0px;width: 43%;}
 	96% {transform: translate(-4px, -9px) rotate(-0.5deg);}
 	98% {transform: translate(-8px, 9px) rotate(1.5deg);}
 }
-.contact002 a:first-child{padding-right: 3.7rem;}
+
 .footer{color: aliceblue;text-align: center;width: 100%;padding-bottom:1.3rem;
 	background-color: #000;}
 .footer a{color: rgb(165, 165, 165);}
@@ -200,7 +200,7 @@ img{border:0px;width: 43%;}
 .maintoponeleft img{width:60%; margin-top:1rem; margin-left:2rem;}
 .maintoponeright{width:90%; height: 100%; float: left;overflow: hidden;position: relative;}
 .nav{width:100%; height:5rem; position: absolute; bottom:0px;}
-.nav li{padding:1.7rem;float: left;font-size:1rem;}
+.nav li{padding:1.7rem;float: left;font-size:1.2rem;}
 .nav li a{color:#000;}
 .firstli01{margin-left:2rem;}
 .maintop p{font-size: 1.2rem;line-height: 1.7rem;margin: 2.5rem auto;}
@@ -246,7 +246,7 @@ img{border:0px;width: 43%;}
 .con11{width:100%; height: 8rem; background:#000;text-align: center; line-height: 5rem;
 	overflow: hidden;}
 .contact002{width:20rem; height: 30rem; margin:0px auto; text-align: center; margin-top:2rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -299,7 +299,7 @@ img{border:0px;width: 43%;}
 .contact001 a img{width:55%;}
 .con11{width:100%; height: 8rem;line-height: 5rem;}
 .contact002{width:20rem; height: 30rem; margin:0px auto;margin-top:2rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:4rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -339,7 +339,7 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:15%;right:10rem; top:0rem;}
 .maincon05{width:100%; height: 28rem;}
 .maincon05 img{width:60%;}
-.maincon06{width:100%;height: 75rem;}
+.maincon06{width:100%;height: 80rem;}
 .secondh202{  font-size:2rem;margin-top:25rem;}
 .maincon06 p{  font-size:2rem; line-height: 3rem;margin:3rem auto;}
 .buttonsmall01{width:13rem;margin:0px auto; height:5rem; line-height: 5rem;border-radius:3rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);  font-size: 2rem;margin-bottom: 0rem;}
@@ -351,7 +351,7 @@ img{border:0px;width: 43%;}
 .contact001 a img{width:65%;}
 .con11{width:100%; height: 8rem; background:#000; line-height: 5rem;}
 .contact002{width:20rem; height: 30rem; margin:0px auto;margin-top:2rem;}
-.contact002 a{display: block; width:50%;}
+.contact002 a{width:50%;}
 .contact002 a img{width:5rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -406,7 +406,7 @@ img{border:0px;width: 43%;}
 .contact001 a img{width:53%;}
 .con11{width:100%; height: 8rem;line-height: 5rem;}
 .contact002{width:20rem; height: 30rem; margin:0px auto;margin-top:2rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -448,19 +448,19 @@ img{border:0px;width: 43%;}
 .boypicture_01{position:absolute; width:15%;right:10rem; top:0rem;}
 .maincon05{width:100%; height: 23rem;}
 .maincon05 img{width:60%;}
-.maincon06{width:100%;height: 80rem;}
+.maincon06{width:100%;height: 81rem;}
 .secondh202{text-align: center;font-size:2rem;margin-top:25rem;}
 .maincon06 p{font-size:1.5rem; line-height: 3rem;margin:3rem auto;width:80%;}
 .buttonsmall01{width:13rem;color:#fff; margin:0px auto; height:5rem;line-height: 5rem;border-radius:3rem;background-image: linear-gradient(to top, #ff9c8e,#fc85e3);  font-size: 2rem;margin-bottom: 0rem;}
 .secondh201{font-size:2rem;margin-top:5rem ;}
-.con10{width:100%; height: 30rem; margin:0px auto;margin-top:2rem; overflow: hidden;}
+.con10{width:100%; height: 17rem; margin:0px auto;margin-top:2rem; overflow: hidden;}
 .con10 h2{font-size: 3rem;margin-bottom:5rem;}
 .contact001{width:100%; height: 20rem; margin:0px auto; text-align: center;}
 .contact001 a{display: block; width:50%;float:left;}
 .contact001 a img{width:100%;}
 .con11{width:100%; height: 8rem; background:#000;line-height: 5rem;overflow: hidden;}
 .contact002{width:20rem; height: 30rem; margin:0px auto;margin-top:2rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:5rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -521,7 +521,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;line-height: 5rem;overflow: hidden;}
 .contact002{width:15rem; height: 30rem; margin:0px auto;margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -583,7 +583,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -645,7 +645,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -707,7 +707,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto;margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -769,7 +769,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -831,7 +831,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto;margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -893,7 +893,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;overflow: hidden;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -956,7 +956,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -1018,7 +1018,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
@@ -1080,7 +1080,7 @@ img{border:0px;width: 43%;}
 }
 .con11{width:100%; height: 6rem; background:#000;text-align: center; line-height: 5rem;}
 .contact002{width:15rem; height: 30rem; margin:0px auto; text-align: center; margin-top:1rem;}
-.contact002 a{display: block; width:50%;float:left;}
+.contact002 a{display: block; width:33.3%;float:left;}
 .contact002 a img{width:3rem;}
 .contact002 a:first-child {
     padding-right: 0rem;
