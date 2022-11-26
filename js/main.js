@@ -11,8 +11,8 @@ function getTop(e) {
 }
 
 function lazyLoad(imgs) {
-    // 获取可视区域高度,乘1.5表示加载屏幕长度1.5倍范围内的图
-    let H = document.documentElement.clientHeight * 1.5;
+    // 获取可视区域高度,乘2.3表示加载屏幕长度2.3倍范围内的图
+    let H = document.documentElement.clientHeight * 2.3;
     let S = document.documentElement.scrollTop || document.body.scrollTop;
     for (let i = 0; i < imgs.length; i++) {
         if (H + S > getTop(imgs[i])) {
@@ -25,6 +25,7 @@ window.onload = window.onscroll = function () { // onscroll()在滚动条滚动�
     lazyLoad(imgs);
 }
 // === end ===
+
 
 // === 返回顶部按钮 ===
 var btn = $('#toTopButton');
@@ -43,7 +44,9 @@ btn.on('click', function(e) {
 });
 // === end ===
 
+
 // === coming soon ===
 function notAllowed() {
     alert("Coming soon!");
 }
+// === end ===
